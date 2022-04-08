@@ -1,0 +1,14 @@
+.header{
+    font-family: "Courier New";
+}
+
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #AFE1AF, 	#5F9EA0, 	#088F8F, #097969, 	#5F8575);
+}
